@@ -1,11 +1,11 @@
 {
     "Group": "Example",
-    "Name": "ExamplePlugin",
+    "Name": "HyBies",
     "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Description": "Survive zombies in round-based survival",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "Thomas D Bebbington",
         }
     ],
     "Website": "example.org",
@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "org.tomb.zombies.ZombiesPlugin",
     "IncludesAssetPack": true
 }
